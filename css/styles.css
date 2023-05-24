@@ -482,7 +482,6 @@ body {
 .customer:focus {
     border-color: #404bbf;
     color: #404bbf;
-    transition: var(--transition-duration-function);
 }
 
 .customer-icon {
